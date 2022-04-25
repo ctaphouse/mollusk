@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "31W6hB3axyvCkauJiLH9A9XfKCboIMiqDLLRbJMa3KQ=",
+  "Source": "mollusk.api",
+  "BasePath": "_content/mollusk.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
