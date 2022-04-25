@@ -201,15 +201,15 @@
       "mscorlib.dll": "sha256-Q4A\/043fz702a7DDbm+JAtMHV3jKAZ9k8khztTMKp2M=",
       "netstandard.dll": "sha256-W9cwgVmBZsddVw3WVFMC5Gya92UufvbVTNR4+u7pnR0=",
       "System.Private.CoreLib.dll": "sha256-KVnZkFos\/ML\/3S2isVijfmFZXO4zEQeCga6BZvGdTbY=",
-      "mollusk.shared.dll": "sha256-T3SkZ1DhPs5FEw4M\/B2NsXciRTIO91k903Lk2gMAp5s=",
-      "mollusk.client.dll": "sha256-4f93xJevSn0r5urVRQAuYgRmJKKxPYy6LKE76CQXqTs="
+      "mollusk.shared.dll": "sha256-+4r7ag5BQ1+lG1Y0FmjDiTvcoyRoQiHO\/W2IIAsiwQw=",
+      "mollusk.client.dll": "sha256-4TT0OsdX4h43gnxTVrR0NO7AncryrAzDGAWDKtsRcpQ="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "mollusk.shared.pdb": "sha256-sLlMLX6Q8eHRhnU45jchARD1wR2xtzPn3imatvZC89Y=",
-      "mollusk.client.pdb": "sha256-Jc8zQnCriE6UsW0PKl0s732SeIB3pX\/QZtJEkElBv2c="
+      "mollusk.shared.pdb": "sha256-a\/HlywkBM9D\/AISj8f7EKTA4NfrzPubgqj1qjnDk1w4=",
+      "mollusk.client.pdb": "sha256-Fei8TmP9GYriE7oBx7OUqb4QRCQx7jwnxLhJFEHOd1M="
     },
     "runtime": {
       "dotnet.6.0.4.rv26xzndsq.js": "sha256-WYno\/cK5MDsl5yi4T\/\/QgUskbBfhLL77i+c0uKzO9+c=",

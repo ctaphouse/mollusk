@@ -12,6 +12,75 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": 810175778,
+        "Kind": "Components.Component",
+        "Name": "Blazored.FluentValidation.FluentValidationValidator",
+        "AssemblyName": "Blazored.FluentValidation",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FluentValidationValidator"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Validator",
+            "TypeName": "FluentValidation.IValidator",
+            "Metadata": {
+              "Common.PropertyName": "Validator"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "DisableAssemblyScanning",
+            "TypeName": "System.Boolean",
+            "Metadata": {
+              "Common.PropertyName": "DisableAssemblyScanning"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazored.FluentValidation.FluentValidationValidator"
+        }
+      },
+      {
+        "HashCode": 105765351,
+        "Kind": "Components.Component",
+        "Name": "Blazored.FluentValidation.FluentValidationValidator",
+        "AssemblyName": "Blazored.FluentValidation",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazored.FluentValidation.FluentValidationValidator"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Validator",
+            "TypeName": "FluentValidation.IValidator",
+            "Metadata": {
+              "Common.PropertyName": "Validator"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "DisableAssemblyScanning",
+            "TypeName": "System.Boolean",
+            "Metadata": {
+              "Common.PropertyName": "DisableAssemblyScanning"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazored.FluentValidation.FluentValidationValidator",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1065816939,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
@@ -4559,104 +4628,68 @@
         }
       },
       {
-        "HashCode": 810175778,
+        "HashCode": -299948706,
         "Kind": "Components.Component",
-        "Name": "Blazored.FluentValidation.FluentValidationValidator",
-        "AssemblyName": "Blazored.FluentValidation",
+        "Name": "mollusk.client.App",
+        "AssemblyName": "mollusk.client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "FluentValidationValidator"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Validator",
-            "TypeName": "FluentValidation.IValidator",
-            "Metadata": {
-              "Common.PropertyName": "Validator"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "DisableAssemblyScanning",
-            "TypeName": "System.Boolean",
-            "Metadata": {
-              "Common.PropertyName": "DisableAssemblyScanning"
-            }
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazored.FluentValidation.FluentValidationValidator"
+          "Common.TypeName": "mollusk.client.App"
         }
       },
       {
-        "HashCode": 105765351,
+        "HashCode": -2077876882,
         "Kind": "Components.Component",
-        "Name": "Blazored.FluentValidation.FluentValidationValidator",
-        "AssemblyName": "Blazored.FluentValidation",
+        "Name": "mollusk.client.App",
+        "AssemblyName": "mollusk.client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Blazored.FluentValidation.FluentValidationValidator"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Validator",
-            "TypeName": "FluentValidation.IValidator",
-            "Metadata": {
-              "Common.PropertyName": "Validator"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "DisableAssemblyScanning",
-            "TypeName": "System.Boolean",
-            "Metadata": {
-              "Common.PropertyName": "DisableAssemblyScanning"
-            }
+            "TagName": "mollusk.client.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Blazored.FluentValidation.FluentValidationValidator",
+          "Common.TypeName": "mollusk.client.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
       {
-        "HashCode": -1589410778,
+        "HashCode": 1779968876,
         "Kind": "Components.Component",
-        "Name": "mollusk.client.Pages.Index",
+        "Name": "mollusk.client.Pages.Counter",
         "AssemblyName": "mollusk.client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "mollusk.client.Pages.Index"
+          "Common.TypeName": "mollusk.client.Pages.Counter"
         }
       },
       {
-        "HashCode": -203750115,
+        "HashCode": -1372137176,
         "Kind": "Components.Component",
-        "Name": "mollusk.client.Pages.Index",
+        "Name": "mollusk.client.Pages.Counter",
         "AssemblyName": "mollusk.client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "mollusk.client.Pages.Index"
+            "TagName": "mollusk.client.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "mollusk.client.Pages.Index",
+          "Common.TypeName": "mollusk.client.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -4694,35 +4727,35 @@
         }
       },
       {
-        "HashCode": 1779968876,
+        "HashCode": -1589410778,
         "Kind": "Components.Component",
-        "Name": "mollusk.client.Pages.Counter",
+        "Name": "mollusk.client.Pages.Index",
         "AssemblyName": "mollusk.client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Counter"
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "mollusk.client.Pages.Counter"
+          "Common.TypeName": "mollusk.client.Pages.Index"
         }
       },
       {
-        "HashCode": -1372137176,
+        "HashCode": -203750115,
         "Kind": "Components.Component",
-        "Name": "mollusk.client.Pages.Counter",
+        "Name": "mollusk.client.Pages.Index",
         "AssemblyName": "mollusk.client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "mollusk.client.Pages.Counter"
+            "TagName": "mollusk.client.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "mollusk.client.Pages.Counter",
+          "Common.TypeName": "mollusk.client.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -4776,39 +4809,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "mollusk.client.Shared.SurveyPrompt",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 913350017,
-        "Kind": "Components.Component",
-        "Name": "mollusk.client.Shared.NavMenu",
-        "AssemblyName": "mollusk.client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "mollusk.client.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": -736817970,
-        "Kind": "Components.Component",
-        "Name": "mollusk.client.Shared.NavMenu",
-        "AssemblyName": "mollusk.client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "mollusk.client.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "mollusk.client.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -4909,35 +4909,35 @@
         }
       },
       {
-        "HashCode": -299948706,
+        "HashCode": 913350017,
         "Kind": "Components.Component",
-        "Name": "mollusk.client.App",
+        "Name": "mollusk.client.Shared.NavMenu",
         "AssemblyName": "mollusk.client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "mollusk.client.App"
+          "Common.TypeName": "mollusk.client.Shared.NavMenu"
         }
       },
       {
-        "HashCode": -2077876882,
+        "HashCode": -736817970,
         "Kind": "Components.Component",
-        "Name": "mollusk.client.App",
+        "Name": "mollusk.client.Shared.NavMenu",
         "AssemblyName": "mollusk.client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "mollusk.client.App"
+            "TagName": "mollusk.client.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "mollusk.client.App",
+          "Common.TypeName": "mollusk.client.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
