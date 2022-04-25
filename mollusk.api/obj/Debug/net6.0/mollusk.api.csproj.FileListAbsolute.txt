@@ -80,3 +80,7 @@ C:\Users\tapho\source\repos\mollusk\mollusk.api\bin\Debug\net6.0\mollusk.client.
 C:\Users\tapho\source\repos\mollusk\mollusk.api\bin\Debug\net6.0\mollusk.shared.dll
 C:\Users\tapho\source\repos\mollusk\mollusk.api\bin\Debug\net6.0\mollusk.client.pdb
 C:\Users\tapho\source\repos\mollusk\mollusk.api\bin\Debug\net6.0\mollusk.shared.pdb
+C:\Users\tapho\source\repos\mollusk\mollusk.api\bin\Debug\net6.0\Ardalis.ApiEndpoints.dll
+C:\Users\tapho\source\repos\mollusk\mollusk.api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\tapho\source\repos\mollusk\mollusk.api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tapho\source\repos\mollusk\mollusk.api\bin\Debug\net6.0\Newtonsoft.Json.dll

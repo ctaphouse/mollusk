@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PIo1PdN5hAetGJpoj92YQrEct8vPa3sX9AJiIJ1LzUk=",
+  "Hash": "Q2p01FWsNqhV6b4PThVo9RvP+hPvrye8YMWlVBJWmNU=",
   "Source": "mollusk.api",
   "BasePath": "_content/mollusk.api",
   "Mode": "Default",
@@ -11,10 +11,10 @@
       "Version": 2,
       "Source": "mollusk.client",
       "GetPublishAssetsTargets": "ComputeFilesToPublish;GetCurrentProjectPublishStaticWebAssetItems",
-      "AdditionalPublishProperties": "BuildProjectReferences=false;ResolveAssemblyReferencesFindRelatedSatellites=true;_PublishingBlazorWasmProject=true;Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishProperties": "BuildProjectReferences=false;ResolveAssemblyReferencesFindRelatedSatellites=true;_PublishingBlazorWasmProject=true",
       "AdditionalPublishPropertiesToRemove": "NoBuild;RuntimeIdentifier;WebPublishProfileFile;TargetFramework",
       "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
-      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildProperties": "",
       "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
     }
   ],

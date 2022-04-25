@@ -12,8 +12,17 @@ public class AddStudentHandler : IRequestHandler<AddStudentRequest, AddStudentRe
     {
         _httpClient = httpClient;
     }
-    public Task<AddStudentRequest.Response> Handle(AddStudentRequest request, CancellationToken cancellationToken)
+    public async Task<AddStudentRequest.Response> Handle(AddStudentRequest request, CancellationToken cancellationToken)
     {
-        throw new NotImplementedException();
+        var response = await _httpClient.PostAsJsonAsync(AddStudentRequest.RouteTemplate, request, cancellationToken: cancellationToken);
+        if (response.IsSuccessStatusCode)
+        {
+            var studentId = await response.Content.ReadFromJsonAsync<int>(cancellationToken: cancellationToken);
+            return new AddStudentRequest.Response(studentId);
+        }
+        else
+        {
+            return new AddStudentRequest.Response(-1);
+        }
     }
 }
