@@ -4559,6 +4559,389 @@
         }
       },
       {
+        "HashCode": 810175778,
+        "Kind": "Components.Component",
+        "Name": "Blazored.FluentValidation.FluentValidationValidator",
+        "AssemblyName": "Blazored.FluentValidation",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FluentValidationValidator"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Validator",
+            "TypeName": "FluentValidation.IValidator",
+            "Metadata": {
+              "Common.PropertyName": "Validator"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "DisableAssemblyScanning",
+            "TypeName": "System.Boolean",
+            "Metadata": {
+              "Common.PropertyName": "DisableAssemblyScanning"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazored.FluentValidation.FluentValidationValidator"
+        }
+      },
+      {
+        "HashCode": 105765351,
+        "Kind": "Components.Component",
+        "Name": "Blazored.FluentValidation.FluentValidationValidator",
+        "AssemblyName": "Blazored.FluentValidation",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Blazored.FluentValidation.FluentValidationValidator"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Validator",
+            "TypeName": "FluentValidation.IValidator",
+            "Metadata": {
+              "Common.PropertyName": "Validator"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "DisableAssemblyScanning",
+            "TypeName": "System.Boolean",
+            "Metadata": {
+              "Common.PropertyName": "DisableAssemblyScanning"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Blazored.FluentValidation.FluentValidationValidator",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1589410778,
+        "Kind": "Components.Component",
+        "Name": "mollusk.client.Pages.Index",
+        "AssemblyName": "mollusk.client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "mollusk.client.Pages.Index"
+        }
+      },
+      {
+        "HashCode": -203750115,
+        "Kind": "Components.Component",
+        "Name": "mollusk.client.Pages.Index",
+        "AssemblyName": "mollusk.client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "mollusk.client.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "mollusk.client.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1854054111,
+        "Kind": "Components.Component",
+        "Name": "mollusk.client.Pages.FetchData",
+        "AssemblyName": "mollusk.client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "mollusk.client.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 884158998,
+        "Kind": "Components.Component",
+        "Name": "mollusk.client.Pages.FetchData",
+        "AssemblyName": "mollusk.client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "mollusk.client.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "mollusk.client.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1779968876,
+        "Kind": "Components.Component",
+        "Name": "mollusk.client.Pages.Counter",
+        "AssemblyName": "mollusk.client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "mollusk.client.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -1372137176,
+        "Kind": "Components.Component",
+        "Name": "mollusk.client.Pages.Counter",
+        "AssemblyName": "mollusk.client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "mollusk.client.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "mollusk.client.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1477759954,
+        "Kind": "Components.Component",
+        "Name": "mollusk.client.Shared.SurveyPrompt",
+        "AssemblyName": "mollusk.client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "mollusk.client.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -912231207,
+        "Kind": "Components.Component",
+        "Name": "mollusk.client.Shared.SurveyPrompt",
+        "AssemblyName": "mollusk.client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "mollusk.client.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "mollusk.client.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 913350017,
+        "Kind": "Components.Component",
+        "Name": "mollusk.client.Shared.NavMenu",
+        "AssemblyName": "mollusk.client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "mollusk.client.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": -736817970,
+        "Kind": "Components.Component",
+        "Name": "mollusk.client.Shared.NavMenu",
+        "AssemblyName": "mollusk.client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "mollusk.client.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "mollusk.client.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -470707560,
+        "Kind": "Components.Component",
+        "Name": "mollusk.client.Shared.MainLayout",
+        "AssemblyName": "mollusk.client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "mollusk.client.Shared.MainLayout"
+        }
+      },
+      {
+        "HashCode": 1184826410,
+        "Kind": "Components.Component",
+        "Name": "mollusk.client.Shared.MainLayout",
+        "AssemblyName": "mollusk.client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "mollusk.client.Shared.MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "mollusk.client.Shared.MainLayout",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1168860276,
+        "Kind": "Components.ChildContent",
+        "Name": "mollusk.client.Shared.MainLayout.Body",
+        "AssemblyName": "mollusk.client",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "mollusk.client.Shared.MainLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -1817230170,
+        "Kind": "Components.ChildContent",
+        "Name": "mollusk.client.Shared.MainLayout.Body",
+        "AssemblyName": "mollusk.client",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "mollusk.client.Shared.MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "mollusk.client.Shared.MainLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -299948706,
+        "Kind": "Components.Component",
+        "Name": "mollusk.client.App",
+        "AssemblyName": "mollusk.client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "mollusk.client.App"
+        }
+      },
+      {
+        "HashCode": -2077876882,
+        "Kind": "Components.Component",
+        "Name": "mollusk.client.App",
+        "AssemblyName": "mollusk.client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "mollusk.client.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "mollusk.client.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 186592043,
         "Kind": "Components.EventHandler",
         "Name": "onfocus",

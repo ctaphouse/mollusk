@@ -15,4 +15,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\mollusk.client\mollusk.client.csproj" />
+    <ProjectReference Include="..\mollusk.shared\mollusk.shared.csproj" />
+  </ItemGroup>
+
 </Project>

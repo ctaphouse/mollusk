@@ -1,0 +1,12 @@
+C:\Users\tapho\source\repos\mollusk\mollusk.shared\obj\Debug\net6.0\mollusk.shared.csproj.AssemblyReference.cache
+C:\Users\tapho\source\repos\mollusk\mollusk.shared\obj\Debug\net6.0\mollusk.shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tapho\source\repos\mollusk\mollusk.shared\obj\Debug\net6.0\mollusk.shared.AssemblyInfoInputs.cache
+C:\Users\tapho\source\repos\mollusk\mollusk.shared\obj\Debug\net6.0\mollusk.shared.AssemblyInfo.cs
+C:\Users\tapho\source\repos\mollusk\mollusk.shared\obj\Debug\net6.0\mollusk.shared.csproj.CoreCompileInputs.cache
+C:\Users\tapho\source\repos\mollusk\mollusk.shared\bin\Debug\net6.0\mollusk.shared.deps.json
+C:\Users\tapho\source\repos\mollusk\mollusk.shared\bin\Debug\net6.0\mollusk.shared.dll
+C:\Users\tapho\source\repos\mollusk\mollusk.shared\bin\Debug\net6.0\mollusk.shared.pdb
+C:\Users\tapho\source\repos\mollusk\mollusk.shared\obj\Debug\net6.0\mollusk.shared.dll
+C:\Users\tapho\source\repos\mollusk\mollusk.shared\obj\Debug\net6.0\refint\mollusk.shared.dll
+C:\Users\tapho\source\repos\mollusk\mollusk.shared\obj\Debug\net6.0\mollusk.shared.pdb
+C:\Users\tapho\source\repos\mollusk\mollusk.shared\obj\Debug\net6.0\ref\mollusk.shared.dll
